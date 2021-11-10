@@ -6,8 +6,7 @@ HTTP is one of the most used protocol on internet.
 
 Knowing its arcane will be useful, even if you won't be working on a website.
 
-This was a group project completed with @sophielouisefeith and @rubenoid. Project was made in repo @webservuss/webserver.
-
+This is a group project completed with [Sophie](https://github.com/sophielouisefeith) & [Ruben](https://github.com/rubenoid). The project was made in [repo](https://github.com/webservuss/webserver).
 
 **Subject:**
 - Your server must be compatible with the web browser of your choice.
